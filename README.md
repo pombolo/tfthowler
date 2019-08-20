@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to TFT Howler
 
-You can use the [editor on GitHub](https://github.com/pombolo/tfthowler/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site will explain the functions of the Iphone App TFT Howler. You can see more information on it's [Appstore Page](https://apps.apple.com/ke/app/tft-howler/id1475359764).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
