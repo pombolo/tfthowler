@@ -1,13 +1,15 @@
 ## Welcome to TFT Howler
 
-This site will explain the functions of the Iphone App TFT Howler. You can see more information on it's [Appstore Page](https://apps.apple.com/ke/app/tft-howler/id1475359764).
+This site will explain the functions of the Iphone App TFT Howler. You can see more information on it's [App Store page](https://apps.apple.com/ke/app/tft-howler/id1475359764).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+TFT Howler is all about the League of Legends mode TeamFight Tactics. TFT Howler isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games
+or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are
+trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
 
-### Markdown
+### Features
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+![Image of Yaktocat](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/b9/79/08/b9790812-1c9c-ec76-a683-1824e2d93ded/pr_source.png/690x0w.jpg)
 ```markdown
 Syntax highlighted code block
 
