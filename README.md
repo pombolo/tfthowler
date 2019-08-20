@@ -22,6 +22,7 @@ TFT Howler contains of 5 tabs
 ![Image of Tier List](https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/59/cc/ef/59ccef73-f331-fe1a-70b0-b227b8ac908c/pr_source.png/230x0w.jpg)
 
 4. The Team Builder will simulate a draft round and suggest you the champ and lists the bonus you would get when choosing said champion.
+
 ![Image of Tier List](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/82/5c/43/825c4344-7118-3720-225c-887e36c1005c/pr_source.png/230x0w.jpg)
 ![Image of Tier List](https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/84/fd/7a/84fd7aef-688a-fa3b-3e04-c9c734335f86/pr_source.png/230x0w.jpg)
 ![Image of Tier List](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5e/94/09/5e94092d-cc97-f27b-ee2d-919da18ac11f/pr_source.png/230x0w.jpg)
