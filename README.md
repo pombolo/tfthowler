@@ -18,26 +18,13 @@ TFT Howler contains of 5 tabs
 ![Image of Tier List](https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/c1/c2/6ec1c241-1529-ee4e-9592-be00ce4a443b/pr_source.png/230x0w.jpg)
 ![Image of Tier List](https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ce/10/b9/ce10b950-4cf8-57d6-9311-7dce4ce98357/pr_source.png/230x0w.jpg)
 
+3. The Item Builder, which will display all the creafting posibilities of the different items:
+![Image of Tier List](https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/59/cc/ef/59ccef73-f331-fe1a-70b0-b227b8ac908c/pr_source.png/230x0w.jpg)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+4. The Team Builder will simulate a draft round and suggest you the champ and lists the bonus you would get when choosing said champion.
+![Image of Tier List](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/82/5c/43/825c4344-7118-3720-225c-887e36c1005c/pr_source.png/230x0w.jpg)
+![Image of Tier List](https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/84/fd/7a/84fd7aef-688a-fa3b-3e04-c9c734335f86/pr_source.png/230x0w.jpg)
+![Image of Tier List](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5e/94/09/5e94092d-cc97-f27b-ee2d-919da18ac11f/pr_source.png/230x0w.jpg)
 
 ### Jekyll Themes
 
