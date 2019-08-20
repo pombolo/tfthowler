@@ -36,4 +36,4 @@ That's about it.
 
 ### Support or Contact
 
-I would love to here some feedback from you. Feel free to contact me at [contact support](mailto:support@deckhowler.comm).
+I would love to here some feedback from you. Feel free to contact me at [contact support](mailto:support@deckhowler.com).
