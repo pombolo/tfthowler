@@ -8,8 +8,9 @@ trademarks or registered trademarks of Riot Games, Inc. League of Legends © Rio
 
 ### Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-![Image of Yaktocat](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/b9/79/08/b9790812-1c9c-ec76-a683-1824e2d93ded/pr_source.png/690x0w.jpg)
+TFT Howler contains of 5 tabs
+1. Champions tab containing all information about each and every champions in TFT:
+![Image of Yaktocat](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/b9/79/08/b9790812-1c9c-ec76-a683-1824e2d93ded/pr_source.png/230x0w.jpg)
 ```markdown
 Syntax highlighted code block
 
