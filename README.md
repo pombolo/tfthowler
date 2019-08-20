@@ -11,7 +11,14 @@ trademarks or registered trademarks of Riot Games, Inc. League of Legends © Rio
 TFT Howler contains of 5 tabs
 1. Champions tab containing all information about each and every champions in TFT:
 
-![Image of Yaktocat](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/b9/79/08/b9790812-1c9c-ec76-a683-1824e2d93ded/pr_source.png/230x0w.jpg)
+![Image of Champions](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/b9/79/08/b9790812-1c9c-ec76-a683-1824e2d93ded/pr_source.png/230x0w.jpg)
+
+2. Tier List tab, which lists the current meta of champions, items, teamcompositions, traits:
+![Image of Tier List](https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/d6/21/c3/d621c38e-914f-4fec-77c9-678be304fb6d/pr_source.png/230x0w.jpg)
+![Image of Tier List](https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/c1/c2/6ec1c241-1529-ee4e-9592-be00ce4a443b/pr_source.png/230x0w.jpg)
+![Image of Tier List](https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ce/10/b9/ce10b950-4cf8-57d6-9311-7dce4ce98357/pr_source.png/230x0w.jpg)
+
+
 ```markdown
 Syntax highlighted code block
 
