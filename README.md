@@ -27,7 +27,7 @@ TFT Howler contains of 5 tabs
 ![Image of Tier List](https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/84/fd/7a/84fd7aef-688a-fa3b-3e04-c9c734335f86/pr_source.png/230x0w.jpg)
 ![Image of Tier List](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5e/94/09/5e94092d-cc97-f27b-ee2d-919da18ac11f/pr_source.png/230x0w.jpg)
 
-5. Leaderboards will list the to leaders of each tier/division. This is the only place where the riot api is used.
+5. Leaderboards will list the leaders of each tier/division. This is the only place where the riot api is used.
 
 ![Image of Tier List](http://lazyson.com/leaderboard.png)
 
@@ -36,4 +36,4 @@ That's about it.
 
 ### Support or Contact
 
-I would love to here some feedback from you. Feel free to contact me at [contact support](mailto:info@lazyson.com).
+I would love to here some feedback from you. Feel free to contact me at [contact support](mailto:support@deckhowler.comm).
